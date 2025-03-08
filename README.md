@@ -136,7 +136,7 @@ Votes: 5
 We welcome contributions from everyone! If you'd like to help improve the code, suggest new features, or report issues, feel free to fork the repository and submit a pull request.
 
 - **Bug Fixes**: Help us track down bugs and improve performance.
-- **Feature Enhancements**: Add new features or improve the voting system.
+- **Feature Enhancements**: Add new features or improve the voting system like making a registration option.
 - **Documentation**: Help improve this README or create other helpful docs!
 
 ---
